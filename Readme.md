@@ -11,3 +11,5 @@
 	> git commit -m "desc"
 - ellenőrzés már megint
 	> git status
+- összes verzió megjelenítése
+	> git log
